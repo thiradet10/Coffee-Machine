@@ -1,0 +1,17 @@
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.exe
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.deps.json
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.runtimeconfig.json
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.dll
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.pdb
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Form1.resources
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Properties.Resources.resources
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.GenerateResource.cache
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfoInputs.cache
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfo.cs
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.dll
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\refint\CoffeeMachine.dll
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.pdb
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.genruntimeconfig.cache
+C:\OBJECT-ORIENTED PROGRAMING\CoffeeMachine\obj\Debug\net8.0-windows\ref\CoffeeMachine.dll
